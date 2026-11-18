@@ -1,0 +1,1 @@
+Extract the entire ZIP. Open index.html in a modern browser. Keep the images folder beside index.html. Click any screenshot to open the viewer; use Actual size, Full screen, or Open original. No server or internet is required for the report. The Microsoft documentation link requires internet.
